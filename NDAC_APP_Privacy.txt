@@ -1,0 +1,74 @@
+Privacy Policy for NDAC App
+
+
+Effective Date: March 03, 2026
+
+
+
+North Deering Alliance Church (NDAC), based in Portland, Maine, operates the NDAC mobile application.
+
+
+
+We are committed to protecting your privacy.
+
+
+
+Information We Collect
+
+
+The NDAC app does not require user accounts and does not collect personal information such as names, emails, or phone numbers.
+
+
+
+Prayer requests submitted through the app are private and not publicly displayed.
+
+
+
+The app may collect a device identifier token for the purpose of delivering push notifications. This information is used solely to send church updates and announcements.
+
+
+
+How We Use Information
+
+
+Information collected is used only to:
+
+Deliver push notifications
+
+Improve app functionality
+
+
+
+We do not sell, rent, or share user data with third parties.
+
+
+
+Data Security
+
+
+All data transmission is encrypted using secure HTTPS protocols.
+
+
+
+Third-Party Services
+
+
+The app uses Firebase Cloud Messaging to send notifications. Firebase may process device identifiers in accordance with their privacy policy.
+
+
+
+Contact Us
+
+
+If you have any questions about this Privacy Policy, please contact:
+
+
+
+North Deering Alliance Church
+
+Portland, Maine
+
+Phone: 682-234-4893
+
+office.ndac@gmail.com
+Email
