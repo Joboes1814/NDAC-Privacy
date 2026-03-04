@@ -1,63 +1,22 @@
-Privacy Policy for NDAC App
-
-
-Effective Date: March 03, 2026
-
-
-
-North Deering Alliance Church (NDAC), based in Portland, Maine, operates the NDAC mobile application.
-
-
-
-We are committed to protecting your privacy.
-
-
+The NDAC App is developed for the North Deering Alliance Church in Portland to help share sermons, events, announcements, and prayer requests with the church community.
 
 Information We Collect
 
+The NDAC App does not require users to create an account and does not collect personal information such as names, email addresses, or phone numbers.
 
-The NDAC app does not require user accounts and does not collect personal information such as names, emails, or phone numbers.
+Users may voluntarily submit prayer requests through the application. These messages are intended solely for prayer support within the church community.
 
+Prayer Request Handling
 
+Prayer requests submitted through the application are processed temporarily. These requests are not permanently stored and are deleted after being read.
 
-Prayer requests submitted through the app are private and not publicly displayed.
+Data Sharing
 
+The NDAC App does not sell, share, or distribute user data to third parties.
 
+Security
 
-The app may collect a device identifier token for the purpose of delivering push notifications. This information is used solely to send church updates and announcements.
-
-
-
-How We Use Information
-
-
-Information collected is used only to:
-
-Deliver push notifications
-
-Improve app functionality
-
-
-
-We do not sell, rent, or share user data with third parties.
-
-
-
-Data Security
-
-
-All data transmission is encrypted using secure HTTPS protocols.
-
-
-
-Third-Party Services
-
-
-The app uses Firebase Cloud Messaging to send notifications. Firebase may process device identifiers in accordance with their privacy policy.
-
-
-
-Contact Us
+We take reasonable steps to ensure that submitted information is handled securely.Contact Us
 
 
 If you have any questions about this Privacy Policy, please contact:
